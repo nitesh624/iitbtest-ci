@@ -2,7 +2,11 @@
 CONTENTS OF THIS FILE
 ---------------------
 
- * About Drupal
+Clkkkl
+C
+C
+C
+ *l About Drupal
  * Configuration and features
  * Installation profiles
 
