@@ -1,6 +1,7 @@
 
 CONTENTS OF THIS FILE
 ---------------------
+Ruchi
  * Changes in Text File
  * About Drupal
  * Configuration and features
