@@ -1,7 +1,7 @@
 
 CONTENTS OF THIS FILE
 ---------------------
-Ruchi
+ * Files added for Testing
  * Changes in Text File
  * About Drupal
  * Configuration and features
