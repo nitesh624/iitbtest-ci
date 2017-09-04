@@ -1,12 +1,8 @@
 
 CONTENTS OF THIS FILE
 ---------------------
-
-Clkkkl
-C
-C
-C
- *l About Drupal
+ * Changes in Text File
+ * About Drupal
  * Configuration and features
  * Installation profiles
 
