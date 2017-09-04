@@ -1,7 +1,7 @@
 
 CONTENTS OF THIS FILE
 ---------------------
- * Files added for Testing
+ * New Files added for Testing
  * Changes in Text File
  * About Drupal
  * Configuration and features
