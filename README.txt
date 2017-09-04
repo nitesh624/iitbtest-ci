@@ -9,6 +9,7 @@ CONTENTS OF THIS FILE
  * Appearance
  * Developing for Drupal
  * More information
+ * Added Custom Module
 
 ABOUT DRUPAL
 ------------
