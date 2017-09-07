@@ -1,7 +1,8 @@
 
 CONTENTS OF THIS FILE
 ---------------------
- * Everything up to date
+ * changes in ruchi 
+  Everything up to date
  * New Files added for Testing
  * Changes in Text File
  * About Drupal
