@@ -1,0 +1,16 @@
+
+hello:
+  path: 'hello'
+  defaults:
+    _controller: '\Drupal\hello\Controller\HelloController::sayhello'
+    _title: 'Hello!'
+  requirements:
+    _permission: 'access content'
+
+welcome:
+  path: 'welcome'
+  defaults:
+    _controller: '\Drupal\hello\Controller\HelloController::welcome'
+    _title: 'Welcome'
+  requirements:
+      _permission: 'access content'
