@@ -1,7 +1,11 @@
 
 CONTENTS OF THIS FILE
 ---------------------
+<<<<<<< HEAD
 niteshChanging for dev  * HUSHUchanges added by ruchi
+=======
+ * Everything up to date
+>>>>>>> c1510627969772c8b7afd545763ed81d912f1ee0
  * New Files added for Testing
  * Changes in Text File
  * About Drupal
