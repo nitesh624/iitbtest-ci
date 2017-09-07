@@ -1,7 +1,7 @@
 
 CONTENTS OF THIS FILE
 ---------------------
-* changes added by ruchi
+ * HUSHUchanges added by ruchi
  * New Files added for Testing
  * Changes in Text File
  * About Drupal
