@@ -1,13 +1,14 @@
-nitesh
+
 CONTENTS OF THIS FILE
 ---------------------
+* changes added by ruchi
  * New Files added for Testing
  * Changes in Text File
  * About Drupal
  * Configuration and features
  * Installation profiles
 
-jhjjjjj * Appearance
+ * Appearance
  * Developing for Drupal
  * More information
  * Added Custom Module
